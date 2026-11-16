@@ -7,8 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1tp5ucXzsPwPZ9nDiaUplzu10AMXpV9gu
 """
 
-from google.colab import files
-uploaded = files.upload()
+
 
 # ==========================================================
 # COMPREHENSIVE COMPUTATIONAL INTELLIGENCE PROJECT: EV POPULATION
